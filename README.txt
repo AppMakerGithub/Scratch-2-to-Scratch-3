@@ -1,6 +1,6 @@
 SB3 to SB2 Converter
 ==============
-
+Original by Rex-Scratch
 A simple Python 3 program that converts .sb3 files to .sb2 files
 
 Requirements

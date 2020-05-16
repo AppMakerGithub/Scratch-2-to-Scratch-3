@@ -1,3 +1,10 @@
+print ("sb3 to sb2")
+print ("loading.")
+print ("loading..")
+print ("loading...")
+print ("loading.")
+print ("bootstrap complete.")
+print ("please import a sb3 and then rename in as an sb2.")
 import sys, json, zipfile, audioop, hashlib, wave, io
 
 sys.setrecursionlimit(4100)
